@@ -1,1 +1,1 @@
-# hello world
+# GitHub pages example
